@@ -36,8 +36,6 @@ g = y^(x+1) / (∛|y − 2| + 3) + (x + y/2) / (2·|x + y|) · (x + 1)^(−1/sin
 
 int main()
 {
-    setlocale(LC_ALL, ".UTF-8");
-
     double x, y, z;
 
     printf("Введите x, y, z: ");
